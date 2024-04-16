@@ -8047,10 +8047,6 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 134568121}
-    - targetCorrespondingSourceObject: {fileID: 4941219564456579801, guid: dc067c577ec1b854684d789b6e727cc0,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1762430173}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
 --- !u!224 &692397218 stripped
@@ -19587,7 +19583,6 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 5.142788e-39, y: 2.222706e-38, z: 9.1858e-41, w: 1.0062232e-35}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -26244,5 +26239,3 @@ SceneRoots:
   - {fileID: 254985053}
   - {fileID: 968589108}
   - {fileID: 1717866039}
-  - {fileID: 625353104}
-  - {fileID: 900926296}
