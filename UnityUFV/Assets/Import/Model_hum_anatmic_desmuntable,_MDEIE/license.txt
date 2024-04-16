@@ -1,0 +1,11 @@
+Model Information:
+* title:	Model humà anatòmic desmuntable, MDEIE
+* source:	https://sketchfab.com/3d-models/model-huma-anatomic-desmuntable-mdeie-e1be1ce75d3b4770959d79881b640a6b
+* author:	Giravolt (https://sketchfab.com/giravolt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Model humà anatòmic desmuntable, MDEIE" (https://sketchfab.com/3d-models/model-huma-anatomic-desmuntable-mdeie-e1be1ce75d3b4770959d79881b640a6b) by Giravolt (https://sketchfab.com/giravolt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
