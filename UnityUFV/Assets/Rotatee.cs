@@ -7,7 +7,7 @@ public class RotacionInfinita : MonoBehaviour
 
     void Update()
     {
-        // Rotar el objeto en torno al eje Y
-        transform.Rotate(Vector3.up * velocidadRotacion * Time.deltaTime);
+        // Rotar el objeto en torno al eje X
+        transform.Rotate(new Vector3(0f, 0f, 30f)* Time.deltaTime);
     }
 }
